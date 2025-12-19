@@ -36,9 +36,25 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 ---
 
-### 🔥 DSA & Coding Profiles
-- 🧩 LeetCode: https://leetcode.com/u/akashkumar888/
-- 📂 GitHub: https://github.com/Akashkumar888
+## 🔥 DSA & Coding Profiles
+
+- 🧩 **LeetCode**: https://leetcode.com/u/akashkumar888/  
+- 🏆 **CodeChef**: https://www.codechef.com/users/sedge_pixel_71  
+- ⚔️ **Codeforces**: https://codeforces.com/profile/akashgkr12  
+- 🌱 **GeeksforGeeks**: https://www.geeksforgeeks.org/user/akashg428x/  
+- 📘 **Coding Ninjas (CodeStudio)**: https://www.naukri.com/code360/profile/Akashgkr12  
+- 🧠 **AtCoder**: https://atcoder.jp/users/akash_kumar12  
+- 🧪 **HackerRank**: https://www.hackerrank.com/profile/@akashgkr12  
+
+---
+
+### 📊 Coding Activity Dashboard
+- 📈 **Codolio Profile**: https://codolio.com/profile/Akash_kumar888  
+  > Aggregated stats from LeetCode, CodeChef, Codeforces & GFG  
+  > 1400+ problems solved • 700+ active days • Long-term streak consistency
+
+- 💻 **GitHub**: https://github.com/Akashkumar888  
+
 
 ---
 
