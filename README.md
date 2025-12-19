@@ -62,7 +62,7 @@ MERN Stack Developer | DSA Enthusiast 🚀
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: [(add your LinkedIn)](https://www.linkedin.com/in/akash-kumar-783a25333)
+- 💼 LinkedIn: (https://www.linkedin.com/in/akash-kumar-783a25333)
 - 📧 Email: akash.2201216cs@iiitbh.ac.in
 
 ---
