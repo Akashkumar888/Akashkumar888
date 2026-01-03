@@ -11,7 +11,7 @@ MERN Stack Developer | DSA Enthusiast 🚀
 - 🎓 B.Tech CSE student at **IIIT Bhagalpur**
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
 - 📊 Strong in **Data Structures & Algorithms**
-- 🌱 Currently improving **Backend & System Design**
+- 🌱 Currently improving **Backend & Frontend**
 - 🎯 Goal: Crack **Product-Based Company** roles
 
 ---
