@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Akash%20Kumar&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Akash Kumar!</h1>
 
 <h3 align="center">
@@ -9,10 +13,6 @@ MERN Stack Developer | DSA Enthusiast 🚀
   <a href="https://www.linkedin.com/in/akash-kumar-783a25333">
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Akash%20Kumar&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
@@ -77,21 +77,20 @@ MERN Stack Developer | DSA Enthusiast 🚀
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashkumar888&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashkumar888&show_icons=true&theme=react&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkumar888&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkumar888&theme=react&cache_seconds=1800" />
 </p>
-
 
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashkumar888&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashkumar888&theme=react-dark&hide_border=true" />
 </p>
-
 
 ## 🧠 Most Used Languages
 
@@ -99,11 +98,10 @@ MERN Stack Developer | DSA Enthusiast 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkumar888&layout=compact&theme=react" />
 </p>
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akashkumar888&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akashkumar888&theme=radical&row=1&column=6&no-frame=true" />
 </p>
 
 
