@@ -11,6 +11,10 @@ MERN Stack Developer | DSA Enthusiast 🚀
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Akash%20Kumar&fontSize=40&fontColor=ffffff" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -80,6 +84,35 @@ MERN Stack Developer | DSA Enthusiast 🚀
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkumar888&theme=react" />
 </p>
+
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashkumar888&theme=react-dark" />
+</p>
+
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkumar888&layout=compact&theme=react" />
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akashkumar888&theme=radical&row=1&column=6" />
+</p>
+
+
+## 📈 Contribution Summary
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Akashkumar888&limit=5&theme=react&combine_all_yearly_contributions=true" />
+</p>
+
 
 ---
 
