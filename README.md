@@ -19,7 +19,7 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE student at **IIIT Bhagalpur**
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
+- 💻 MERN Stack Developer (**MongoDB, Express, React, Node.js**)
 - 📊 Strong in **Data Structures & Algorithms**
 - 🌱 Currently improving **Backend & Frontend**
 - 🎯 Goal: Crack **Product-Based Company** roles
@@ -30,7 +30,7 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
+    src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
     width="500"
     alt="Tech Stack Animation"
   />
@@ -78,7 +78,7 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
     width="420"
     alt="Developer Workflow"
   />
@@ -122,14 +122,14 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 <p align="center">
   <img 
-    src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" 
+    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
     width="420"
-    alt="Work Life Toggle"
+    alt="Focus Mode"
   />
 </p>
 
 <p align="center">
-  Work > Sleep > Social 😄
+  <b>Work > Sleep > Social 😄</b>
 </p>
 
 ---
