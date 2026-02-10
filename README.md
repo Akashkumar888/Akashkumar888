@@ -26,6 +26,33 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 ---
 
+## ✨ Tech Stack in Action
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
+    width="500"
+    alt="Tech Stack Animation"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+</p>
+
+---
+
 ## 🧠 Skills & Technologies
 
 ### 🖥 Programming Languages
@@ -47,44 +74,77 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 ---
 
-## 🔥 DSA & Coding Profiles
+## 🧩 Development Workflow
 
-- 🧩 **LeetCode**: https://leetcode.com/u/akashkumar888/  
-- 🏆 **CodeChef**: https://www.codechef.com/users/sedge_pixel_71  
-- ⚔️ **Codeforces**: https://codeforces.com/profile/akashgkr12  
-- 🌱 **GeeksforGeeks**: https://www.geeksforgeeks.org/user/akashg428x/  
-- 📘 **Coding Ninjas (CodeStudio)**: https://www.naukri.com/code360/profile/Akashgkr12  
-- 🧠 **AtCoder**: https://atcoder.jp/users/akash_kumar12  
-- 🧪 **HackerRank**: https://www.hackerrank.com/profile/@akashgkr12  
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+    width="420"
+    alt="Developer Workflow"
+  />
+</p>
+
+<p align="center">
+  Building • Debugging • Optimizing • Scaling
+</p>
+
+---
+
+## 🔥 DSA & Coding Profiles
+- 🧩 **LeetCode**: https://leetcode.com/u/akashkumar888/
+- 🏆 **CodeChef**: https://www.codechef.com/users/sedge_pixel_71
+- ⚔️ **Codeforces**: https://codeforces.com/profile/akashgkr12
+- 🌱 **GeeksforGeeks**: https://www.geeksforgeeks.org/user/akashg428x/
+- 📘 **Coding Ninjas (CodeStudio)**: https://www.naukri.com/code360/profile/Akashgkr12
+- 🧠 **AtCoder**: https://atcoder.jp/users/akash_kumar12
+- 🧪 **HackerRank**: https://www.hackerrank.com/profile/@akashgkr12
 
 ---
 
 ## 📊 Coding Activity Dashboard
 - 📈 **Codolio Profile**: https://codolio.com/profile/Akash_kumar888  
   > Aggregated stats from LeetCode, CodeChef, Codeforces & GFG  
-  > 1400+ problems solved • 700+ active days • Long-term streak consistency
+  > 1400+ problems solved • 700+ active days
 
-- 💻 **GitHub**: https://github.com/Akashkumar888  
+- 💻 **GitHub**: https://github.com/Akashkumar888
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Doctor Appointment Booking System (MERN)**
-- 🔹 **DSA 160 Days Challenge**
-- 🔹 **C++ / JavaScript Algorithm Implementations**
-- 🔹 **Trie, DP, Graph & Recursion Projects**
+- 🔹 Doctor Appointment Booking System (MERN)
+- 🔹 DSA 160 Days Challenge
+- 🔹 C++ / JavaScript Algorithm Implementations
+- 🔹 Trie, DP, Graph & Recursion Projects
+
+---
+
+## ⚙️ Focus Mode
+
+<p align="center">
+  <img 
+    src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" 
+    width="420"
+    alt="Work Life Toggle"
+  />
+</p>
+
+<p align="center">
+  Work > Sleep > Social 😄
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashkumar888&show_icons=true&theme=react&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashkumar888&show_icons=true&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkumar888&theme=react&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkumar888&theme=react" />
 </p>
+
+---
 
 ## 🔥 Contribution Activity
 
@@ -92,11 +152,15 @@ MERN Stack Developer | DSA Enthusiast 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashkumar888&theme=react-dark&hide_border=true" />
 </p>
 
+---
+
 ## 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkumar888&layout=compact&theme=react" />
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -104,6 +168,7 @@ MERN Stack Developer | DSA Enthusiast 🚀
   <img src="https://github-profile-trophy.vercel.app/?username=Akashkumar888&theme=radical&row=1&column=6&no-frame=true" />
 </p>
 
+---
 
 ## 📈 Contribution Summary
 
@@ -111,12 +176,11 @@ MERN Stack Developer | DSA Enthusiast 🚀
   <img src="https://github-contributor-stats.vercel.app/api?username=Akashkumar888&limit=5&theme=react&combine_all_yearly_contributions=true" />
 </p>
 
-
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn**: https://www.linkedin.com/in/akash-kumar-783a25333  
-- 📧 **Email**: akash.2201216cs@iiitbh.ac.in  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/akash-kumar-783a25333
+- 📧 **Email**: akash.2201216cs@iiitbh.ac.in
 
 ---
 
