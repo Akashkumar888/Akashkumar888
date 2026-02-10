@@ -47,6 +47,12 @@ MERN Stack Developer | DSA Enthusiast 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
 </p>
@@ -120,16 +126,17 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 ## ⚙️ Focus Mode
 
+
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
+    src="https://raw.githubusercontent.com/akashkumar888/assets/main/focus-mode-work-sleep-on-social-off.png"
     width="420"
-    alt="Focus Mode"
+    alt="Focus Mode: Work ON, Sleep ON, Social OFF"
   />
 </p>
 
 <p align="center">
-  <b>Work > Sleep > Social 😄</b>
+  <b>Work ✅ &nbsp;&nbsp; Sleep ✅ &nbsp;&nbsp; Social ❌</b>
 </p>
 
 ---
