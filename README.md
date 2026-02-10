@@ -24,11 +24,6 @@ MERN Stack Developer | DSA Enthusiast 🚀
 - 🌱 Currently improving **Backend & Frontend**
 - 🎯 Goal: Crack **Product-Based Company** roles
 
----
-
-## ✨ Tech Stack in Action
-
----
 
 ## 🧠 Skills & Technologies
 
@@ -95,6 +90,28 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 ---
 
+## 🧘 Coding in Peace
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" />
+</p>
+
+---
+
+## 🔁 Eat • Sleep • Code • Repeat
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
+</p>
+
+---
+
+## 🐞 It's Not a Bug — It's a Feature 😄
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -142,8 +159,8 @@ MERN Stack Developer | DSA Enthusiast 🚀
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn**: https://www.linkedin.com/in/akash-kumar-783a25333
-- 📧 **Email**: akash.2201216cs@iiitbh.ac.in
+- 💼 **LinkedIn**: https://www.linkedin.com/in/akash-kumar-783a25333  
+- 📧 **Email**: akash.2201216cs@iiitbh.ac.in  
 
 ---
 
