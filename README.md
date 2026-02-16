@@ -114,6 +114,14 @@ MERN Stack Developer | DSA Enthusiast 🚀
 
 ---
 
+---
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akashkumar888/Akashkumar888/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
