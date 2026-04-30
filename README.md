@@ -24,6 +24,13 @@ MERN Stack Developer | DSA Enthusiast 🚀
 - 🌱 Currently improving **Backend & Frontend**
 - 🎯 Goal: Crack **Product-Based Company** roles
 
+## 🌐 Portfolio
+
+* 🚀 **Live Portfolio**: https://port-folio-akash.vercel.app/
+* 💻 **Source Code**: https://github.com/Akashkumar888/PortFolio-Akash
+
+> A modern SDE portfolio built with React + Vite showcasing projects, skills, DSA journey, and achievements.
+
 
 ## 🧠 Skills & Technologies
 
